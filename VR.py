@@ -765,5 +765,6 @@ bpy.context.scene.render.image_settings.file_format = "FFMPEG"  # ファイル�
 bpy.context.scene.render.ffmpeg.format = "MPEG4"  # コンテナの設定
 bpy.context.scene.render.ffmpeg.audio_codec = "MP3"  # 音声追加用に MP3 に設定
 bpy.context.scene.render.filepath = (
-    "C:\\Users\\keisu\\Desktop\\Software-Development-II\\1219\\2245135_VR.mp4"
+    ""
+    #パスを入力
 )
